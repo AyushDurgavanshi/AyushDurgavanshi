@@ -2,7 +2,7 @@
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with everyone
-- 📫 How to reach me www.instagram.com/ayushdurgavanshi
+- 📫 You can contact me on www.instagram.com/ayushdurgavanshi
 
 
 <!---
