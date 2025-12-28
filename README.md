@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyushDurgavanshi
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate with everyone
-- 📫 You can contact me on www.instagram.com/ayushdurgavanshi
+- 📫 You can contact me on www.instagram.com/ayush.thakur.5147
 
 
 <!---
