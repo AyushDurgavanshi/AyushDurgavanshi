@@ -1,11 +1,4 @@
 - 👋 Hi, I’m @AyushDurgavanshi
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate with everyone
-- 📫 You can contact me on www.instagram.com/ayush.thakur.5147
-
-
-<!---
-AyushDurgavanshi/AyushDurgavanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning C+
+- 📫 You can contact me on www.instagram.com/ayushdurgavanshi
